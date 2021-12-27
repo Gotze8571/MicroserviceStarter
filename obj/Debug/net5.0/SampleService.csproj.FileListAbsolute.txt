@@ -27,3 +27,16 @@ C:\Users\tella.adesina\source\repos\Personal_Project\Microservices\SampleService
 C:\Users\tella.adesina\source\repos\Personal_Project\Microservices\SampleService\obj\Debug\net5.0\ref\SampleService.dll
 C:\Users\tella.adesina\source\repos\Personal_Project\Microservices\SampleService\obj\Debug\net5.0\SampleService.pdb
 C:\Users\tella.adesina\source\repos\Personal_Project\Microservices\SampleService\obj\Debug\net5.0\SampleService.genruntimeconfig.cache
+C:\Users\tella.adesina\source\repos\Personal_Project\Microservices\SampleService\bin\Debug\net5.0\RestSharp.dll
+C:\Users\tella.adesina\source\repos\Personal_Project\Microservices\SampleService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tella.adesina\source\repos\Personal_Project\Microservices\SampleService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tella.adesina\source\repos\Personal_Project\Microservices\SampleService\bin\Debug\net5.0\Microsoft.Extensions.Http.dll
+C:\Users\tella.adesina\source\repos\Personal_Project\Microservices\SampleService\bin\Debug\net5.0\Microsoft.Extensions.Http.Polly.dll
+C:\Users\tella.adesina\source\repos\Personal_Project\Microservices\SampleService\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\tella.adesina\source\repos\Personal_Project\Microservices\SampleService\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tella.adesina\source\repos\Personal_Project\Microservices\SampleService\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\tella.adesina\source\repos\Personal_Project\Microservices\SampleService\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\tella.adesina\source\repos\Personal_Project\Microservices\SampleService\bin\Debug\net5.0\Polly.dll
+C:\Users\tella.adesina\source\repos\Personal_Project\Microservices\SampleService\bin\Debug\net5.0\Polly.Extensions.Http.dll
+C:\Users\tella.adesina\source\repos\Personal_Project\Microservices\SampleService\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tella.adesina\source\repos\Personal_Project\Microservices\SampleService\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
